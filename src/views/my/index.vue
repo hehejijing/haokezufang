@@ -1,14 +1,10 @@
 <template>
-  <div>
-    
-    <router-view></router-view>
-    
-  </div>
+  <div>wode</div>
 </template>
 
 <script>
 export default {
-
+name: 'AA'
 }
 </script>
 
